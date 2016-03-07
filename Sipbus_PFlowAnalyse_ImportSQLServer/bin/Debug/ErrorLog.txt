@@ -1,0 +1,12 @@
+Error:         时间2015/08/24 16:58:00不能在具有唯一索引“idx_h_z_punctuality”的对象“dbo.history_z_punctuality”中插入重复键的行。重复键值为 (2015-08-01, 100)。
+语句已终止。-执行失败
+
+Error:         时间2015/09/02 11:22:52不能在具有唯一索引“idx_h_z_punctuality”的对象“dbo.history_z_punctuality”中插入重复键的行。重复键值为 (2015-08-30, 100)。
+语句已终止。-执行失败
+
+Error:         时间2015/09/02 13:44:58不能在具有唯一索引“idx_h_z_punctuality”的对象“dbo.history_z_punctuality”中插入重复键的行。重复键值为 (2015-08-23, 100)。
+语句已终止。-执行失败
+
+Error:         时间2015/09/02 15:17:34不能在具有唯一索引“idx_h_z_punctuality”的对象“dbo.history_z_punctuality”中插入重复键的行。重复键值为 (2015-08-31, 100)。
+语句已终止。-执行失败
+
